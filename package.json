@@ -24,7 +24,7 @@
     "url": "https://github.com/flocsy/grunt-liquibase-postgresql/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test specified\" && exit 0"
   },
   "license": "MIT"
 }
