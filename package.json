@@ -1,0 +1,30 @@
+{
+  "name": "grunt-liquibase-postgresql",
+  "version": "1.0.0",
+  "description": "PostgreSQL plugin for grunt-liquibase",
+  "author": "Gavriel Fleischer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flocsy/grunt-liquibase-postgresql.git"
+  },
+  "keywords": [
+    "grunt-liquibase",
+    "postgresql",
+    "liquibase"
+  ],
+  "dependencies": {
+    "merge": "^1.2.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.0",
+    "grunt-liquibase": "^1.0.0"
+  },
+  "homepage": "https://github.com/flocsy/grunt-liquibase-postgresql#readme",
+  "bugs": {
+    "url": "https://github.com/flocsy/grunt-liquibase-postgresql/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
