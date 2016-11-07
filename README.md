@@ -1,5 +1,6 @@
-# grunt-liquibase-postgresql [![Build Status](https://travis-ci.org/flocsy/grunt-liquibase-postgresql.svg?branch=master)](https://travis-ci.org/flocsy/grunt-liquibase-postgresql) [![Code Climate](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql/badges/gpa.svg)](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql) [![Issue Count](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql/badges/issue_count.svg)](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql)
+# grunt-liquibase-postgresql [![Build Status](https://travis-ci.org/flocsy/grunt-liquibase-postgresql.svg?branch=master)](https://travis-ci.org/flocsy/grunt-liquibase-postgresql) [![Code Climate](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql/badges/gpa.svg)](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql) [![Issue Count](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql/badges/issue_count.svg)](https://codeclimate.com/github/flocsy/grunt-liquibase-postgresql) [![Dependency Status](https://david-dm.org/flocsy/grunt-liquibase-postgresql.png?branch=master)](https://david-dm.org/flocsy/grunt-liquibase-postgresql)
 > PostgreSQL plugin for grunt-liquibase
+
 ## Getting Started
 This plugin requires grunt-liquibase `>=1.0.0`
 
